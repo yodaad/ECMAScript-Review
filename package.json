@@ -1,0 +1,15 @@
+{
+  "name": "codigo",
+  "version": "1.0.0",
+  "description": "Code for ECMAScript learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "ECMAScript"
+  ],
+  "author": "Diego Arango <yodaad@gmail.com>",
+  "license": "MIT"
+}
