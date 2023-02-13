@@ -11,5 +11,6 @@
     "ECMAScript"
   ],
   "author": "Diego Arango <yodaad@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
