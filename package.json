@@ -12,5 +12,8 @@
   ],
   "author": "Diego Arango <yodaad@gmail.com>",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
 }
